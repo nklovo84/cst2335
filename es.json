@@ -1,0 +1,16 @@
+{
+  "customer_details": "Detalles del Cliente",
+  "instructions": "Instrucciones",
+  "instructions_content": "Aquí están las instrucciones para usar esta página...",
+  "customer_saved": "¡Detalles del cliente guardados con éxito!",
+  "customer_deleted": "¡Cliente eliminado con éxito!",
+  "error": "Error",
+  "ok": "OK",
+  "name": "Nombre",
+  "address": "Dirección",
+  "select_birthday": "Seleccionar Fecha de Nacimiento",
+  "save": "Guardar",
+  "delete": "Eliminar",
+  "edit": "Editar",
+  "cancel_edit": "Cancelar Edición"
+}

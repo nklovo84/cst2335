@@ -1,0 +1,16 @@
+{
+  "customer_details": "Customer Details",
+  "instructions": "Instructions",
+  "instructions_content": "Here are the instructions for using this page...",
+  "customer_saved": "Customer details saved successfully!",
+  "customer_deleted": "Customer deleted successfully!",
+  "error": "Error",
+  "ok": "OK",
+  "name": "Name",
+  "address": "Address",
+  "select_birthday": "Select Birthday",
+  "save": "Save",
+  "delete": "Delete",
+  "edit": "Edit",
+  "cancel_edit": "Cancel Edit"
+}

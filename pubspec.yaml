@@ -1,0 +1,28 @@
+name: customer
+description: "A Flutter app for managing customers."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  encrypted_shared_preferences: ^3.0.0
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+
+flutter:
+  uses-material-design: true
+assets:
+  - assets/en.json
+  - assets/es.json
